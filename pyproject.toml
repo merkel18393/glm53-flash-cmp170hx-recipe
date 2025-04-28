@@ -1,0 +1,5 @@
+[project]
+name = "glm53-flash-cmp170hx-recipe"
+version = "0.1.0"
+description = "GLM-5.3-Flash on 4× NVIDIA CMP 170HX with vLLM: up to 437 tok/s single-user, 841 tok/s at 8 users, 262K context, TP4 or PP4, one-command container install"
+requires-python = ">=3.10"
